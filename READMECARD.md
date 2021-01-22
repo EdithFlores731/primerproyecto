@@ -1,4 +1,4 @@
-> # TRIVIA APP CONOCIENDO MI PERU 
+> # CARD - VALIDATION
 >
 > - [Definición del Producto](#Definición)
 > - [Imagen final del proyecto](#Producto)
